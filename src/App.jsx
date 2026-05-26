@@ -24,7 +24,7 @@ const CONFIG = {
   // Informações da loja
   loja: {
     nome: "Jamile Chagas Semi Joias",
-    instagram: "https://instagram.com/jamilechagas",
+    instagram: "https://www.instagram.com/jamilechagassemijoias/",
     frete: "Frete grátis acima de R$ 200",
     prazo: "Entrega em 3 a 7 dias úteis",
   },
