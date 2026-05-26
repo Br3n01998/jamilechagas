@@ -5,11 +5,11 @@ import { useState } from "react";
 // ╚══════════════════════════════════════════════════════════════════╝
 const CONFIG = {
   // WhatsApp — coloque o número com DDI+DDD, só números
-  whatsapp: "5511999999999",
+  whatsapp: "5573981478539",
 
   // PIX / Dados bancários — aparece no modal de pagamento
   pix: {
-    chave: "seupix@email.com",        // pode ser CPF, CNPJ, telefone ou e-mail
+    chave: "jamillechagas16@gmail.com",        // pode ser CPF, CNPJ, telefone ou e-mail
     tipo: "E-mail",
     titular: "Jamile Chagas",
     banco: "Nubank",
