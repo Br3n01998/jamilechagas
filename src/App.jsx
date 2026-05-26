@@ -15,10 +15,10 @@ const CONFIG = {
     banco: "Nubank",
   },
 
-  // Logins dos administradores
+   // Logins dos administradores
   admins: [
-    { email: "jamile@jamilechagas.com.br", senha: "Jamile@2026" },
-    { email: "admin@jamilechagas.com.br",  senha: "Admin@2026"  },
+    { email: "jamile.chagas22@hotmail.com", senha: "jamile1231" },
+    { email: "brenosalerno@hotmail.com",  senha: "Bcad1998"  },
   ],
 
   // Informações da loja
