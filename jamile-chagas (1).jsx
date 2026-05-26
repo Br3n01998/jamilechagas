@@ -5,11 +5,11 @@ import { useState } from "react";
 // ╚══════════════════════════════════════════════════════════════════╝
 const CONFIG = {
   // WhatsApp — coloque o número com DDI+DDD, só números
-  whatsapp: "5511999999999",
+  whatsapp: "5573981478539",
 
   // PIX / Dados bancários — aparece no modal de pagamento
   pix: {
-    chave: "seupix@email.com",        // pode ser CPF, CNPJ, telefone ou e-mail
+    chave: "jamillechagas16@gmail.com",        // pode ser CPF, CNPJ, telefone ou e-mail
     tipo: "E-mail",
     titular: "Jamile Chagas",
     banco: "Nubank",
@@ -17,8 +17,8 @@ const CONFIG = {
 
   // Logins dos administradores
   admins: [
-    { email: "jamile@jamilechagas.com.br", senha: "Jamile@2026" },
-    { email: "admin@jamilechagas.com.br",  senha: "Admin@2026"  },
+    { email: "jamile.chagas22@hotmail.com", senha: "jamile1231" },
+    { email: "brenosalerno@hotmail.com",  senha: "Bcad1998"  },
   ],
 
   // Informações da loja
